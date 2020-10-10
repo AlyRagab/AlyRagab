@@ -1,4 +1,4 @@
-![](https://github.com/AlyRagab/AlyRagab/tree/main/asset/main.svg)
+![](https://github.com/AlyRagab/AlyRagab/main/asset/main.svg)
 
 Highly experienced in Planning , Designing , Configuring and Implementing deep level of security in DevOps related environments and culture.
 Experienced in: AWS , Kubernetes , MySQL/PostgreSQL , MongoDB , ELK , Golang , Hashicorp/Vault - Terraform , CI/CD , CloudFormation , Bash , Linux and more.
