@@ -8,11 +8,7 @@ For more information about me please check out my
 <h1 align="center">Hi 👋, I'm Aly Ragab</h1>
 <h3 align="center">Experienced DevOps/SRE Architect</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
-
-<!-- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> -->
+📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
