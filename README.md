@@ -10,9 +10,9 @@ For more information about me please check out my
 
 - 📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
