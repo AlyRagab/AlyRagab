@@ -38,4 +38,3 @@ For more information about me please check out my
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alyragab&show_icons=true&locale=en" alt="alyragab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyragab&theme=dark" alt="alyragab" /></p>
