@@ -8,8 +8,6 @@ For more information about me please check out my
 <h1 align="center">Hi 👋, I'm Aly Ragab</h1>
 <h3 align="center">Experienced DevOps/SRE Architect</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alyragab" alt="alyragab" /></a> </p>
-
 📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
 
 💬 Ask me about **Kubernetes - Golang - AWS - Serverless - IaC - SQL/NoSQL - Security**
