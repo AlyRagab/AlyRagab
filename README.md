@@ -10,7 +10,7 @@ For more information about me please check out my
 
 📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
 
-💬 Ask me about **Kubernetes - Golang - AWS - Serverless - IaC - SQL/NoSQL - Security**
+💬 Ask me about **Kubernetes - Golang - AWS - Serverless - IaC - SQL/NoSQL - Security - Management**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
