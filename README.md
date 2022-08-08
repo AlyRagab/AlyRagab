@@ -14,6 +14,7 @@ For more information about me please check out my
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Authentication Techniques and Strategies](https://medium.com/@alyragab70/authentication-types-and-techniques-eb8232eebcfb)
 - [AWS DynamoDB Deep Dive](https://medium.com/@alyragab70/aws-dynamodb-deep-dive-6faa3259a08c)
 - [ACID in Database Transactions](https://medium.com/@alyragab70/acid-in-database-transactions-2d9b771ee6a8)
 - [Password Hashing with Golang and PostgreSQL](https://medium.com/@alyragab70/password-hashing-with-golang-and-postgresql-c1c31f6ec3a8?source=rss-4eaa13ac129b------2)
