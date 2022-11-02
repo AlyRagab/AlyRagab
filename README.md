@@ -11,8 +11,8 @@ For more information about me please check out my
 
 💬 Ask me about **Kubernetes - Golang - AWS - Serverless - IaC - SQL/NoSQL - Security - Management - GRC - Web Pen Testing**
 
-<h4> Experienced Lead DevSecOps and Platform Engineer in building Cloud Native and Complaint Platforms. </h4>
-<h4> Experienced in Leading teams from a Forming phase to a Performing one. </h4>
+<h3> Experienced Lead DevSecOps and Platform Engineer in building Cloud Native and Complaint Platforms. </h3>
+<h3> Experienced in Leading teams from a Forming phase to a Performing one. </h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
