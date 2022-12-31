@@ -5,11 +5,10 @@ For more information about me please check out my
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyragab/)](https://www.linkedin.com/in/alyragab/)
  -->
 <h1 align="center">Hi 👋, I'm Aly Ragab</h1>
-<h3 align="center">Lead DevSecOps and GRC Engineer</h3>
 
 📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
 
-💬 Ask me about **Kubernetes - Golang - AWS - Serverless - IaC - SQL/NoSQL - Security - Management - GRC - Web Pen Testing**
+💬 Ask me about **Kubernetes - Golang - AWS - Serverless - IaC - SQL/NoSQL - Security - DevSecOps - System Design - API Security - Web Pen Testing - Management - ISO 27001:2022 - GRC**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
