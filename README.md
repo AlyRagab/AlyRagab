@@ -12,6 +12,7 @@ For more information about me please check out my
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OOP in Golang - Theoretically](https://medium.com/@alyragab70/oop-in-golang-theoretically-345922370d06)
 - [Authentication Techniques and Strategies](https://medium.com/@alyragab70/authentication-types-and-techniques-eb8232eebcfb)
 - [AWS DynamoDB Deep Dive](https://medium.com/@alyragab70/aws-dynamodb-deep-dive-6faa3259a08c)
 - [ACID in Database Transactions](https://medium.com/@alyragab70/acid-in-database-transactions-2d9b771ee6a8)
