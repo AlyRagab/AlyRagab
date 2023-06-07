@@ -12,14 +12,13 @@ For more information about me please check out my
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Audit Logging](https://medium.com/@alyragab70/kubernetes-audit-logs-webhook-api-with-go-be04d46ae9cd)
 - [OOP in Golang - Theoretically](https://medium.com/@alyragab70/oop-in-golang-theoretically-345922370d06)
 - [Authentication Techniques and Strategies](https://medium.com/@alyragab70/authentication-types-and-techniques-eb8232eebcfb)
 - [AWS DynamoDB Deep Dive](https://medium.com/@alyragab70/aws-dynamodb-deep-dive-6faa3259a08c)
 - [ACID in Database Transactions](https://medium.com/@alyragab70/acid-in-database-transactions-2d9b771ee6a8)
 - [Password Hashing with Golang and PostgreSQL](https://medium.com/@alyragab70/password-hashing-with-golang-and-postgresql-c1c31f6ec3a8?source=rss-4eaa13ac129b------2)
 - [PostgreSQL System Architecture](https://medium.com/@alyragab70/postgresql-system-architecture-4bdf519d7aff)
-- [Linux under the Hood — Processing](https://medium.com/@alyragab70/linux-under-the-hood-processing-1b474f5d13f?source=rss-4eaa13ac129b------2)
-- [Linux under the Hood — Memory Management](https://medium.com/@alyragab70/linux-under-the-hood-memory-management-48789250765a?source=rss-4eaa13ac129b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
