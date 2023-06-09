@@ -12,6 +12,7 @@ For more information about me please check out my
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hashicorp Vault Audit Logging](https://medium.com/@alyragab70/hashicorp-vault-audit-logging-2892141c4794)
 - [Kubernetes Audit Logging](https://medium.com/@alyragab70/kubernetes-audit-logs-webhook-api-with-go-be04d46ae9cd)
 - [OOP in Golang - Theoretically](https://medium.com/@alyragab70/oop-in-golang-theoretically-345922370d06)
 - [Authentication Techniques and Strategies](https://medium.com/@alyragab70/authentication-types-and-techniques-eb8232eebcfb)
