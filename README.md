@@ -8,7 +8,7 @@ For more information about me please check out my
 
 📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
 
-💬 Ask me about **Kubernetes - Golang - AWS - Serverless - IaC - System Design - DevSecOps - API Security - Web Pen Testing - PCI-DSS - ISO 27001:2022 - GRC - Team Management**
+💬 Ask me about **Kubernetes - Golang - AWS - Serverless - IaC - System Design - DevSecOps - Cloud Security - API Security - PCI-DSS - ISO 27001:2022 - GRC - Team Management**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
