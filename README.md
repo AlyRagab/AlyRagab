@@ -9,7 +9,7 @@ For more information about me please check out my
 
 📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
 
-💬 Ask me about **DevSecOps - Cloud Security - Web Security - PCI-DSS - ISO 27001:2022 - GRC - Blockchain - Team Management**
+💬 Ask me about **DevSecOps - Cloud Security - Web Security - PCI-DSS - ISO 27001:2022 - GRC - Blockchain - Leadership**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
