@@ -5,23 +5,6 @@ For more information about me please check out my
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyragab/)](https://www.linkedin.com/in/alyragab/)
  -->
 <h1 align="center">Hi 👋, I'm Aly Ragab</h1>
-<h2 align="center">Principal Security Architect</h2>
-
-📝 I regularly write articles on [https://medium.com/@alyragab70](https://medium.com/@alyragab70)
-
-💬 Ask me about **DevSecOps - Cloud Security - Web Security - PCI-DSS - ISO 27001 - GRC - Blockchain - Leadership**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault Audit Logging](https://medium.com/@alyragab70/hashicorp-vault-audit-logging-2892141c4794)
-- [Kubernetes Audit Logging](https://medium.com/@alyragab70/kubernetes-audit-logs-webhook-api-with-go-be04d46ae9cd)
-- [OOP in Golang - Theoretically](https://medium.com/@alyragab70/oop-in-golang-theoretically-345922370d06)
-- [Authentication Techniques and Strategies](https://medium.com/@alyragab70/authentication-types-and-techniques-eb8232eebcfb)
-- [AWS DynamoDB Deep Dive](https://medium.com/@alyragab70/aws-dynamodb-deep-dive-6faa3259a08c)
-- [ACID in Database Transactions](https://medium.com/@alyragab70/acid-in-database-transactions-2d9b771ee6a8)
-- [Password Hashing with Golang and PostgreSQL](https://medium.com/@alyragab70/password-hashing-with-golang-and-postgresql-c1c31f6ec3a8?source=rss-4eaa13ac129b------2)
-- [PostgreSQL System Architecture](https://medium.com/@alyragab70/postgresql-system-architecture-4bdf519d7aff)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
