@@ -5,7 +5,7 @@ I am Aly Ragab, the Chief Technology Officer (CTO) at SecDelta (A Cybersecurity 
 - Tech and Product Leadership
 - Cyber Security Leadership - ( Governance, Risk Management and Compliance - GRC )
 - Software Development
-- Engineering Management
+- People and Engineering Management
 - DevSecOps, Secure Architectures, DevOps and Site Reliability Engineering
 - Team Building and Mentoring
 - Agile Methodologies
